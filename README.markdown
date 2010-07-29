@@ -1,7 +1,6 @@
 OfficeToHtml
 ============
 
-Introduction goes here.
 It is a ruby Wrapper of [jodconverter][1] Which is used to convert office format to html 
 [1]: http://www.artofsolving.com/opensource/jodconverter
 
